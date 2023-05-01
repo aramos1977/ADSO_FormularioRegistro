@@ -1,6 +1,6 @@
-# Aprende a Diseñar Formularios Profesionales con CSS Grid!
-### [Tutorial: https://www.youtube.com/watch?v=cEKDyzoTXb4&feature=youtu.be](https://www.youtube.com/watch?v=cEKDyzoTXb4&feature=youtu.be
+# Diseñando Formulario de Registro Loguin!
+### [Tutorial: ADSO _ Analisis y Desarrollo de Software_ Aramos]
 
-![Aprende a Diseñar Formularios Profesionales con CSS Grid!](https://raw.githubusercontent.com/falconmasters/formulario-css-grid/master/img/thumb.png)
+[ ¡ Alexander Ramos !]
 
-Por: [FalconMasters](http://www.falconmasters.com)
+Por: [ARAMOS](ADSO_Analisis y Desarrollo de Software 2023)
